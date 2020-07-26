@@ -4,7 +4,7 @@ title:    springboot与缓存
 subtitle: Hello World
 date:     2019-07-25
 author:   BY 人间喜剧
-header-img: img/post-bg-swift2
+header-img: img/post-bg-swift
 catalog: ture
 tags:
      - springboot
